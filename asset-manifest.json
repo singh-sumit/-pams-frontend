@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/pams-frontend/static/css/main.073c9b0a.css",
+    "main.js": "/pams-frontend/static/js/main.55d3b6df.js",
+    "static/js/787.a988c639.chunk.js": "/pams-frontend/static/js/787.a988c639.chunk.js",
+    "static/media/logo.svg": "/pams-frontend/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/pams-frontend/index.html",
+    "main.073c9b0a.css.map": "/pams-frontend/static/css/main.073c9b0a.css.map",
+    "main.55d3b6df.js.map": "/pams-frontend/static/js/main.55d3b6df.js.map",
+    "787.a988c639.chunk.js.map": "/pams-frontend/static/js/787.a988c639.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.55d3b6df.js"
+  ]
+}
